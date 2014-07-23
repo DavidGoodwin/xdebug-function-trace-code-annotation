@@ -1,6 +1,8 @@
 import cgi
 import sys
 
+# Original author: William Redman @ Pale Purple Ltd.
+
 # see: http://xdebug.org/docs/all_settings#trace_format
 LEVEL = 0
 FUNCTION_ID = 1

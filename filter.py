@@ -1,5 +1,7 @@
 import sys
 
+# Original author: William Redman @ Pale Purple Ltd.
+
 CHR0 = ord('0')
 CHR9 = ord('9')
 
